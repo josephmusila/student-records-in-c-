@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610696355 source:g:\t02308\cpp\rem\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
